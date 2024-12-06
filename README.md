@@ -1,6 +1,6 @@
 👋 Hello, I'm Abhishek Chand!
 
-🚀 Software Engineer with 2 years of hands-on experience in the tech industry.
+🚀 Software Developer with 2 years of hands-on experience in the tech industry.
 
 💻 Passionate about coding, problem-solving, and building innovative solutions.
 
