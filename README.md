@@ -1,7 +1,5 @@
 👋 Hello, I'm Abhishek Chand!
 
-🚀 Software Developer with 2 years of hands-on experience in the tech industry.
-
 💻 Passionate about coding, problem-solving, and building innovative solutions.
 
 🌐 Currently exploring the vast world of Software development, with expertise in ReactJs[MERN], NextJs, Python.
